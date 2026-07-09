@@ -52,7 +52,7 @@ Supply-Chain-Performance-Dashboard
 │
 ├── Dashboard
 │   ├── Supply_chain_dashboard.pbix
-│   ├── Home_Page.png
+│   ├── Home.png
 │   ├── Overview.png
 │   ├── Product.png
 │   ├── Supplier.png
@@ -223,7 +223,7 @@ Provides insights into transportation efficiency and logistics operations.
 
 ##  Home
 
-![Home](Dashboard/Home_Page.png)
+![Home](Dashboard/Home.png)
 
 ---
 
